@@ -20,5 +20,5 @@ pip install langgraph
 
 Optionally install integrations:
 
-pip install langgraph[all]   # includes MongoDB, SQLAlchemy, Redis, etc.
+pip install langgraph[all]       (includes MongoDB, SQLAlchemy, Redis, etc.)
 
