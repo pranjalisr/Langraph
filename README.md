@@ -89,8 +89,8 @@ updated_state = graph.invoke({
 - How to connect OpenAI models with graph-based execution
 - Future Improvements
 - Add proper response quality evaluation
-Add Gemini or another fallback model
-Add memory support
+- Add Gemini or another fallback model
+- Add memory support
 Add streaming responses
 Build a simple UI using Streamlit or FastAPI
 Add error handling and logging
