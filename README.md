@@ -83,7 +83,7 @@ updated_state = graph.invoke({
 ```
 # What I Learned
 - How LangGraph represents AI workflows as graphs
-How to define shared state using TypedDict
+- How to define shared state using TypedDict
 How to add nodes and edges in a LangGraph workflow
 How to use conditional edges for routing
 How to connect OpenAI models with graph-based execution
