@@ -86,7 +86,7 @@ updated_state = graph.invoke({
 - How to define shared state using TypedDict
 - How to add nodes and edges in a LangGraph workflow
 - How to use conditional edges for routing
-How to connect OpenAI models with graph-based execution
+- How to connect OpenAI models with graph-based execution
 Future Improvements
 Add proper response quality evaluation
 Add Gemini or another fallback model
