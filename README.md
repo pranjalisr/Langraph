@@ -91,6 +91,6 @@ updated_state = graph.invoke({
 - Add proper response quality evaluation
 - Add Gemini or another fallback model
 - Add memory support
-Add streaming responses
+- Add streaming responses
 Build a simple UI using Streamlit or FastAPI
 Add error handling and logging
