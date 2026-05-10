@@ -93,4 +93,4 @@ updated_state = graph.invoke({
 - Add memory support
 - Add streaming responses
 - Build a simple UI using Streamlit or FastAPI
-Add error handling and logging
+- Add error handling and logging
